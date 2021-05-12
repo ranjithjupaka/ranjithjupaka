@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<img alt="hello" src="./assets/hello.gif" width='80' align="left"/><h1>Hey there! I'm Ranjith</h1>
-=======
 <img alt="hello" src="./assets/hello.gif" width='100' align="left"/><h1>Hey there! I'm Ranjith</h1>
->>>>>>> b612446217fcff9b3cc7ef08992d98a5129732d8
-
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Love to explore new technologies and develop new things.
