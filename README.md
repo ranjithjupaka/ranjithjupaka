@@ -27,6 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=android%20studio&logoColor=green)&nbsp;
 
+***
 ## ⚙️Github Stats
 <details>
 <summary>📊 Github Stats</summary>
@@ -48,6 +49,7 @@
 </div>
 </details>
 
+***
 
 
 ## 🤝🏻 &nbsp;Connect with Me
