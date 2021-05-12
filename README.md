@@ -9,7 +9,11 @@
 💬 &nbsp;Feel free to reach out to me for  some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ranjithjupaka@gmail.com! I'll try to respond as soon as I can.
 
+<<<<<<< HEAD
 <img alt=" Coding" src="./assets/developer.gif" width='400' align="right"/>
+=======
+<img alt=" Coding" src="./assets/developer.gif" width='400' height='400' align="right"/>
+>>>>>>> 48bdd3768e9b215a36c63f5c7dd978df5911490b
 
 ## 🛠 &nbsp;Tech Stack
 
