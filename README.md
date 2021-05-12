@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Love to explore new technologies and develop new things.
+💡 &nbsp;Love to explore new technologies and develop new things.\
 🎓 &nbsp; currently studying at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
 🌱 &nbsp; on track for learning more about Web development and AI.\
 ✍️ &nbsp;In my free time, I read books\
