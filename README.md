@@ -1,14 +1,14 @@
 <img alt="hello" src="./assets/hello.gif" width='100' align="left"/><h1>Hey there! I'm Ranjith</h1>
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Love to explore new technologies and develop new things.
+💡 &nbsp;Love to explore new technologies and develop new things.\
 🎓 &nbsp; currently studying at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
 🌱 &nbsp; on track for learning more about Web development and AI.\
 ✍️ &nbsp;In my free time, I read books\
 💬 &nbsp;Feel free to reach out to me for  some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ranjithjupaka@gmail.com! I'll try to respond as soon as I can.
 
-<img alt=" Coding" src="./assets/developer.gif" width='400' height='400' align="right"/>
+<img alt=" Coding" src="./assets/developer.gif" width='300' height='300' align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -26,13 +26,33 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=android%20studio&logoColor=green)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+***
+## ⚙️Github Stats
+<details>
+<summary>📊 Github Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranjithcoder&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithcoder&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
+</div>
 
-<p align="center">
-<a href="https://github.com/ranjithcoder">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ranjithcoder&show_icons=true&theme=algolia&count_private=true"/>
-</a>
-</p>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjithcoder&theme=vision-friendly-dark)](https://github.com/ranjithcoder)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=ranjithcoder&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/ranjithcoder)
+
+</div>
+</details>
+
+***
+Thanks for Visting!
+<img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=ranjithjupaka&countColorcountColor&countColor=%237B1E7B"/>
+
 
 ## 🤝🏻 &nbsp;Connect with Me
 
