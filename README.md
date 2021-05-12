@@ -47,7 +47,7 @@
 
 </div>
 </details>
-![counter](https:[https://pipedream.com/@/p_G6CNmN/edit?copy=true].m.pipedream.net)
+
 
 
 ## 🤝🏻 &nbsp;Connect with Me
