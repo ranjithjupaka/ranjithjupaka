@@ -50,6 +50,9 @@
 </details>
 
 ***
+Thanks for Visting!
+<img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=ranjithjupaka&countColorcountColor&countColor=%237B1E7B"/>
 
 
 ## 🤝🏻 &nbsp;Connect with Me
