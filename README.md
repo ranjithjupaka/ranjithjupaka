@@ -1,4 +1,4 @@
-<img alt="hello" src="./assets/hello.gif" width='40' align="left"/><h1>Hey there! I'm Ranjith</h1>
+<img alt="hello" src="./assets/hello.gif" width='80' align="left"/><h1>Hey there! I'm Ranjith</h1>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
