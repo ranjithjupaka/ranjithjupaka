@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img alt="hello" src="./assets/hello.gif" width='80' align="left"/><h1>Hey there! I'm Ranjith</h1>
+=======
+<img alt="hello" src="./assets/hello.gif" width='100' align="left"/><h1>Hey there! I'm Ranjith</h1>
+>>>>>>> b612446217fcff9b3cc7ef08992d98a5129732d8
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -10,7 +14,6 @@
 ✉️ &nbsp;You can shoot me an email at ranjithjupaka@gmail.com! I'll try to respond as soon as I can.
 
 <img alt=" Coding" src="./assets/developer.gif" width='400' height='400' align="right"/>
->>>>>>> 48bdd3768e9b215a36c63f5c7dd978df5911490b
 
 ## 🛠 &nbsp;Tech Stack
 
