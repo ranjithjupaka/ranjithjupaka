@@ -29,33 +29,34 @@
 ***
 
 <details>
-<summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranjithcoder&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
- 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithcoder&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
-</div>
+    <summary> :zap: My GitHub Stats: </summary>
+    <img alt="Ranjith's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ranjithcoder&show_icons=true&hide_border=true" />
+</details>
 
-<div align="center">
+<details>
+    <summary> :zap: Top Languages I Use: </summary>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithcoder&langs_count=8&layout=compact&show_icons=true&hide_border=true">
+</details>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjithcoder&theme=vision-friendly-dark)](https://github.com/ranjithcoder)
+<details>
+    <summary> :zap: This week I spent my time on: </summary>
+    <img alt="Ranjith's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ranjithcoder&show_icons=true&hide_border=true" />
+     <!--START_SECTION:waka-->
+     <!--END_SECTION:waka-->
 
-</div>
+</details>
 
-<div align="center">
+<details>
+ <summary> :zap: Github Streaks </summary>
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithcoder&theme=vision-friendly-dark" /><br/>
+  <img alt="Github Streak" src="https://github-profile-trophy.vercel.app/?username=ranjithcoder&margin-w=15&theme=vision-friendly-dark&column=3" />
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=ranjithcoder&margin-w=15&theme=vision-friendly-dark&column=3)](https://github.com/ranjithcoder)
-
-</div>
 </details>
 
 <details>
   <summary> :zap: My Recent GitHub Activity: </summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2709](https://github.com/webpack/webpack-cli/pull/2709) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#4969](https://github.com/webpack/webpack.js.org/pull/4969) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-3. 🎉 Merged PR [#2707](https://github.com/webpack/webpack-cli/pull/2707) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 💪 Opened PR [#2707](https://github.com/webpack/webpack-cli/pull/2707) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 🎉 Merged PR [#18](https://github.com/jamesgeorge007/csstox/pull/18) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+
 <!--END_SECTION:activity-->
 </details>
 
