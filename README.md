@@ -27,7 +27,7 @@
 ![Android Studio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=android%20studio&logoColor=green)&nbsp;
 
 ***
-## ⚙️Github Stats
+
 <details>
 <summary>📊 Github Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranjithcoder&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
@@ -48,10 +48,14 @@
 </div>
 </details>
 
-## :zap: Recent Activity
 <details>
+  <summary> :zap: My Recent GitHub Activity: </summary>
 <!--START_SECTION:activity-->
-
+1. 💪 Opened PR [#2709](https://github.com/webpack/webpack-cli/pull/2709) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#4969](https://github.com/webpack/webpack.js.org/pull/4969) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+3. 🎉 Merged PR [#2707](https://github.com/webpack/webpack-cli/pull/2707) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#2707](https://github.com/webpack/webpack-cli/pull/2707) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🎉 Merged PR [#18](https://github.com/jamesgeorge007/csstox/pull/18) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
 <!--END_SECTION:activity-->
 </details>
 
