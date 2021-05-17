@@ -40,7 +40,7 @@
 
 <details>
     <summary> :zap: This week I spent my time on: </summary>
-    <img alt="Ranjith's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ranjithcoder&show_icons=true&hide_border=true" />
+    <img alt="Ranjith's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ranjithcoder&layuout=compact&theme=synthwave" />
 
 
 </details>
