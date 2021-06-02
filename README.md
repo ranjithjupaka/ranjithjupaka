@@ -30,7 +30,7 @@
 
 <details>
     <summary> :zap: My GitHub Stats: </summary>
-    <img alt="Ranjith's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ranjithcoder&show_icons=true&hide_border=true" />
+    <img alt="Ranjith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ranjithcoder&show_icons=true&hide_border=true" />
 </details>
 
 <details>
