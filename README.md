@@ -30,12 +30,13 @@
 
 <details>
     <summary> :zap: My GitHub Stats: </summary>
-    <img alt="Ranjith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ranjithcoder&show_icons=true&hide_border=true" />
+    <img alt="Ranjith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ranjithcoder&show_icons=true&theme=cobalt" />
+
 </details>
 
 <details>
     <summary> :zap: Top Languages I Use: </summary>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithcoder&langs_count=8&layout=compact&show_icons=true&hide_border=true">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithcoder&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=merko">
 </details>
 
 <details>
