@@ -58,8 +58,8 @@
 ***
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ranjithcoder/StickoWorld/pull/1) in [ranjithcoder/StickoWorld](https://github.com/ranjithcoder/StickoWorld)
-2. 🎉 Merged PR [#1](https://github.com/ranjithcoder/img-bot-testing/pull/1) in [ranjithcoder/img-bot-testing](https://github.com/ranjithcoder/img-bot-testing)
+1. 🎉 Merged PR [#1](https://github.com/ranjithcoder/ranjithcoder/pull/1) in [ranjithcoder/ranjithcoder](https://github.com/ranjithcoder/ranjithcoder)
+2. 🎉 Merged PR [#1](https://github.com/ranjithcoder/StickoWorld/pull/1) in [ranjithcoder/StickoWorld](https://github.com/ranjithcoder/StickoWorld)
 <!--END_SECTION:activity-->
 Thanks for Visting!
 <img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
