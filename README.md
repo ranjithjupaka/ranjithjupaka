@@ -55,12 +55,12 @@
 
 </details>
 
-<!-- <details>
+<!--<details>
   <summary> :zap: My Recent GitHub Activity: </summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-</details> -->
+</details>-->
 
 ***
 
