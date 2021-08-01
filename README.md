@@ -2,9 +2,9 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Love to explore new technologies and develop new things.\
-🎓 &nbsp; currently studying at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
-🌱 &nbsp; on track for learning more about Web development and AI.\
-✍️ &nbsp;In my free time, I read books\
+🎓 &nbsp; currently Student at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
+🌱 &nbsp; On track for learning more about Web development and ML.\
+✍️ &nbsp;In my free time, I read books,Play chess\
 💬 &nbsp;Feel free to reach out to me for  some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ranjithjupaka@gmail.com! I'll try to respond as soon as I can.
 
@@ -56,11 +56,6 @@
 </details>
 
 ***
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ranjithcoder/ranjithcoder/pull/1) in [ranjithcoder/ranjithcoder](https://github.com/ranjithcoder/ranjithcoder)
-2. 🎉 Merged PR [#1](https://github.com/ranjithcoder/StickoWorld/pull/1) in [ranjithcoder/StickoWorld](https://github.com/ranjithcoder/StickoWorld)
-<!--END_SECTION:activity-->
 Thanks for Visting!
 <img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=ranjithjupaka&countColorcountColor&countColor=%237B1E7B"/>
