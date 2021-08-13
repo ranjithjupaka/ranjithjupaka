@@ -41,26 +41,26 @@
 
 <details>
     <summary> :zap: My GitHub Stats: </summary>
-    <img alt="Ranjith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ranjithcoder&show_icons=true&theme=cobalt" />
+    <img alt="Ranjith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ranjithjupaka&show_icons=true&theme=cobalt" />
 
 </details>
 
 <details>
     <summary> :zap: Top Languages I Use: </summary>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithcoder&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=merko">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithjupaka&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=merko">
 </details>
 
 <details>
     <summary> :zap: This week I spent my time on: </summary>
-    <img alt="Ranjith's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ranjithcoder&layuout=compact&theme=synthwave" />
+    <img alt="Ranjith's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ranjithjupaka&layuout=compact&theme=synthwave" />
 
 
 </details>
 
 <details>
  <summary> :zap: Github Streaks </summary>
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithcoder&theme=vision-friendly-dark" /><br/>
-  <img alt="Github Streak" src="https://github-profile-trophy.vercel.app/?username=ranjithcoder&margin-w=15&theme=vision-friendly-dark&column=3" />
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithjupaka&theme=vision-friendly-dark" /><br/>
+  <img alt="Github Streak" src="https://github-profile-trophy.vercel.app/?username=ranjithjupaka&margin-w=15&theme=vision-friendly-dark&column=3" />
 
 </details>
 
