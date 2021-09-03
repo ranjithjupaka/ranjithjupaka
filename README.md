@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Love to explore new technologies and develop new things.\
-🎓 &nbsp; currently Student at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
+🎓 &nbsp; Currently Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
 🌱 &nbsp; On track for learning more about Web development and ML.\
 ✍️ &nbsp;In my free time, I read books,Play chess\
 💬 &nbsp;Feel free to reach out to me for  some interesting discussion.\
