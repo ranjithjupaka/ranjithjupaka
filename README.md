@@ -68,14 +68,13 @@
 
 ***
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<a href="https://github.com/ShivraniAJ/github-readme-activity-graph"><img alt="Ranjith jupaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ranjithjupaka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 Thanks for Visting!
 <img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=ranjithjupaka&countColorcountColor&countColor=%237B1E7B"/>
 
-<a href="https://github.com/ShivraniAJ/github-readme-activity-graph"><img alt="Ranjith jupaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ranjithjupaka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
