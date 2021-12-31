@@ -5,7 +5,7 @@
 - 💡 &nbsp; **Full stack developer** who Love to explore new technologies and develop new things.\
 - 🎓 &nbsp; Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
 - ✨ &nbsp; On track with enhancing my skills in web dev,cp,cloud domains
-- 💬 &nbsp; Feel free to reach out to me by shooting a mail to **ranjithjupaka@gmail.com"".\.
+- 💬 &nbsp; Feel free to reach out to me by shooting a mail to ranjithjupaka@gmail.com.\.
 
 
 ## 🛠 &nbsp;Tech Stack
