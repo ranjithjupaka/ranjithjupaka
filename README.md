@@ -1,13 +1,11 @@
-<img alt="hello" src="./header.png"/>
+<img alt="hello" src="./header.png" height="250" />
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Love to explore new technologies and develop new things.\
-🎓 &nbsp; Currently Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
-🌱 &nbsp; On track for learning more about Web development and ML.\
-✍️ &nbsp;In my free time, I read books,Play chess\
-💬 &nbsp;Feel free to reach out to me for  some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at ranjithjupaka@gmail.com! I'll try to respond as soon as I can.
+- 💡 &nbsp; **Full stack developer** who Love to explore new technologies and develop new things.\
+- 🎓 &nbsp; Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
+- ✨ &nbsp; On track with enhancing my skills in web dev,cp,cloud domains
+- 💬 &nbsp; Feel free to reach out to me by shooting a mail to **ranjithjupaka@gmail.com"".\.
 
 <img alt=" Coding" src="./assets/developer.gif" width='300' height='300' align="right"/>
 
@@ -75,6 +73,8 @@
 Thanks for Visting!
 <img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=ranjithjupaka&countColorcountColor&countColor=%237B1E7B"/>
+
+<a href="https://github.com/ShivraniAJ/github-readme-activity-graph"><img alt="Ranjith jupaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ranjithjupaka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 ## 🤝🏻 &nbsp;Connect with Me
