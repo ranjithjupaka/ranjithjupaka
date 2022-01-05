@@ -2,10 +2,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp; **Full stack developer** who Love to explore new technologies and develop new things.\
-- 🎓 &nbsp; Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.\
+- 💡 &nbsp; **Full stack developer** who Love to explore new technologies and develop new things
+- 🎓 &nbsp; Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.
 - ✨ &nbsp; On track with enhancing my skills in web dev,cp,cloud domains
-- 💬 &nbsp; Feel free to reach out to me by shooting a mail to ranjithjupaka@gmail.com.\.
+- 💬 &nbsp; Feel free to reach out to me by shooting a mail to ranjithjupaka@gmail.com.
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -35,7 +35,8 @@
 - **Databases**
 
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Dynamo Db](https://img.shields.io/badge/DynamoDb-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
 
 - **Version Control**
 
