@@ -62,9 +62,6 @@
 ![Pychham](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%2311AB00.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 
-
-
-
 ***
 
 <details>
@@ -92,9 +89,12 @@
 
 </details>
 
-***
 
-<a href="https://github.com/Ranjithjupaka/github-readme-activity-graph"><img alt="Ranjith jupaka's Activity Graph (Last 30 days)" src="https://activity-graph.herokuapp.com/graph?username=ranjithjupaka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+**:pushpin: Last 31 Days Contribution Graph**
+
+<a href="https://github.com/ranjithjupaka"><img alt="Ranjith Jupaka's Activity Graph (Last 30 days)" src="https://activity-graph.herokuapp.com/graph?username=ranjithjupaka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+***
 
 Thanks for Visting!
 <img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
