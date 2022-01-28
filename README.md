@@ -4,10 +4,10 @@
 
 A *Sophomore* IT student at *IIITM, Gwalior* with a good amount of knowledge and skills in the full stack web development and also a competitive coder with an eagerness to learn new things every single day. Other areas of interest include cloud computing and blockchain. Platforms where I code are Codechef, Codeforces,Leetcode. Feel free to reach out to me by shooting a mail to ranjithjupaka@gmail.com.
 
-## :star: &nbsp;CP ratings
+<!-- ## :star: &nbsp;CP ratings
 [![Badge](https://cp-logo.vercel.app/codeforces/ranjithjupaka?logo=true)](https://codeforces.com/profile/ranjithjupaka)
 [![Badge](https://cp-logo.vercel.app/codechef/ranjith_143?logo=true)](https://codechef.com/profile/ranjith_143)
-[![Badge](https://cp-logo.vercel.app/leetcode/ranjithjupaka?logo=true)](https://leetcode.com/ranjithjupaka)
+[![Badge](https://cp-logo.vercel.app/leetcode/ranjithjupaka?logo=true)](https://leetcode.com/ranjithjupaka) -->
 ## 🛠 &nbsp;Tech Stack
 
 - **Languages**
