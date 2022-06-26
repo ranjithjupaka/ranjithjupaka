@@ -4,14 +4,15 @@
 
 A *Sophomore* IT student at *IIITM, Gwalior* with a good amount of knowledge and skills in the full stack web development and also a competitive coder with an eagerness to learn new things every single day. Other areas of interest include cloud computing and blockchain. Platforms where I code are Codechef, Codeforces,Leetcode. Feel free to reach out to me by shooting a mail to ranjithjupaka@gmail.com.
 
-<!-- ## :star: &nbsp;CP ratings
+ ## :star: &nbsp;CP ratings
 [![Badge](https://cp-logo.vercel.app/codeforces/ranjithjupaka?logo=true)](https://codeforces.com/profile/ranjithjupaka)
-[![Badge](https://cp-logo.vercel.app/codechef/ranjith_143?logo=true)](https://codechef.com/profile/ranjith_143)
-[![Badge](https://cp-logo.vercel.app/leetcode/ranjithjupaka?logo=true)](https://leetcode.com/ranjithjupaka) -->
+[![Badge](https://cp-logo.vercel.app/codechef/ranjith_143?logo=true)](https://www.codechef.com/users/ranjith_143)
+[![Badge](https://cp-logo.vercel.app/leetcode/ranjithjupaka?logo=true)](https://leetcode.com/ranjithjupaka)
 ## 🛠 &nbsp;Tech Stack
 
 - **Languages**
 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -22,14 +23,18 @@ A *Sophomore* IT student at *IIITM, Gwalior* with a good amount of knowledge and
 
 - **Frameworks and Libraries**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Next.Js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Web3.Js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)&nbsp;
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)&nbsp;
 
 - **Databases**
@@ -37,6 +42,11 @@ A *Sophomore* IT student at *IIITM, Gwalior* with a good amount of knowledge and
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Dynamo Db](https://img.shields.io/badge/DynamoDb-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
+
+- **Linters**
+
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;
 
 - **Version Control**
 
@@ -104,8 +114,14 @@ Thanks for Visting!
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+ [![LinkedIn](https://img.shields.io/badge/-Ranjith%20Jupaka-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjithjupaka/)
+ [![Gmail](https://img.shields.io/badge/-ranjithjupaka@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ranjithjupaka@gmail.com)
+ [![Instaggram](https://img.shields.io/badge/-@ranjithjupaka_1-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ranjithjupaka_1/)
+
+ 
+<!-- <p align="center">
 <a href="https://linkedin.com/in/jupaka-ranjith-998675164/"><img src="https://img.shields.io/badge/-Ranjith%20Jupaka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jupaka-ranjith-998675164/"><img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ranjithjupaka@gmail.com"><img src="https://img.shields.io/badge/-ranjithjupaka@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ranjithjupaka_1/"><img src="https://img.shields.io/badge/-@ranjithjupaka_1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+</p>  -->
