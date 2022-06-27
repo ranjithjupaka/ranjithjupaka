@@ -1,13 +1,21 @@
-<img alt="hello" src="./header.png" height="250" />
+Hi 👋 My name is Ranjith Jupaka
+===============================
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-A *Sophomore* IT student at *IIITM, Gwalior* with a good amount of knowledge and skills in the full stack web development and also a competitive coder with an eagerness to learn new things every single day. Other areas of interest include cloud computing and blockchain. Platforms where I code are Codechef, Codeforces,Leetcode. Feel free to reach out to me by shooting a mail to ranjithjupaka@gmail.com.
+I am a 3rd year IT student at *IIITM, Gwalior* with a good amount of knowledge and skills in the full stack web development and also a curious developer with an eagerness to learn new things every single day. Other areas of interest include Blockchain and Cloud Computing. 
+
+* 🌍  I'm based in Karimnagar,Telangana,India
+* ✉️  You can contact me at [ranjithjupaka@gmail.com](mailto:ranjithjupaka@gmail.com)
+* 🧠  I'm Currently learning Blockchain
+* 🤝  I'm open to collaborating on unique and interesting projects
+* ⚡  I\`m a competative coder too.I code on platforms: codechef,codeforces,leetcode
 
  ## :star: &nbsp;CP ratings
 [![Badge](https://cp-logo.vercel.app/codeforces/ranjithjupaka?logo=true)](https://codeforces.com/profile/ranjithjupaka)
 [![Badge](https://cp-logo.vercel.app/codechef/ranjith_143?logo=true)](https://www.codechef.com/users/ranjith_143)
 [![Badge](https://cp-logo.vercel.app/leetcode/ranjithjupaka?logo=true)](https://leetcode.com/ranjithjupaka)
+
 ## 🛠 &nbsp;Tech Stack
 
 - **Languages**
@@ -28,14 +36,18 @@ A *Sophomore* IT student at *IIITM, Gwalior* with a good amount of knowledge and
 ![Next.Js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)&nbsp;
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Web3.Js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)&nbsp;
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=fff&style=for-the-badge)&nbsp;
+![AWS Lambda ](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=for-the-badge)&nbsp;
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)&nbsp;
+
+
 
 - **Databases**
 
@@ -45,7 +57,7 @@ A *Sophomore* IT student at *IIITM, Gwalior* with a good amount of knowledge and
 
 - **Linters**
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)&nbsp;
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;
 
 - **Version Control**
