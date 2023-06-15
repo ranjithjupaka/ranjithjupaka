@@ -3,11 +3,11 @@ Hi 👋 My name is Ranjith Jupaka
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-I am a 3rd year IT student at *IIITM, Gwalior* with a good amount of knowledge and skills in the full stack web development and also a curious developer with an eagerness to learn new things every single day. Other areas of interest include Blockchain and Cloud Computing. 
+I am a 4th year IT student at *IIITM, Gwalior* with a good amount of knowledge and skills in the full stack web development and Blockchain.I am also a curious developer with an eagerness to learn new things every single day. Other areas of interest include AI. 
 
 * 🌍  I'm based in Karimnagar,Telangana,India
 * ✉️  You can contact me at [ranjithjupaka@gmail.com](mailto:ranjithjupaka@gmail.com)
-* 🧠  I'm Currently learning Blockchain
+* 🧠  I'm Currently Exploring Blockchain
 * 🤝  I'm open to collaborating on unique and interesting projects
 * ⚡  I\`m a competative coder too.I code on platforms: codechef,codeforces,leetcode
 
