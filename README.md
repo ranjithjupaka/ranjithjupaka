@@ -6,10 +6,10 @@ Hi 👋 My name is Ranjith Jupaka
 I am a freelance full-stack blockchain developer with more than one year of work experience I have worked on real-life industrial projects. I can make any website from scratch from frontend development to backend development and blockchain development, hosting, and testing all with clean code using best practices.
 
 * 🌍  I'm based in Karimnagar,Telangana,India
-* ✉️  You can contact me at [ranjithjupaka@gmail.com](mailto:ranjithjupaka@gmail.com)
+* 🤝  I'm open to collaborating on unique and interesting projects.you can check my freelancing profile [here](https://www.freelancer.in/u/ranjithjupaka6)
+* ⚡  I\`m a competitive coder too.I code on platforms: CodeChef,code forces,leetcode.
 * 🧠  I'm Currently Exploring Devops.
-* 🤝  I'm open to collaborating on unique and interesting projects
-* ⚡  I\`m a competative coder too.I code on platforms: codechef,codeforces,leetcode
+* ✉️  You can contact me at [ranjithjupaka@gmail.com](mailto:ranjithjupaka@gmail.com)
 
  ## :star: &nbsp;CP ratings
 [![Badge](https://cp-logo.vercel.app/codeforces/ranjithjupaka?logo=true)](https://codeforces.com/profile/ranjithjupaka)
